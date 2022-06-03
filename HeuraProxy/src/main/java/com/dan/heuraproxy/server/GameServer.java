@@ -10,9 +10,9 @@ public class GameServer {
 
     private int players = 0;
 
-    private final int maxPlayers;
-
     private final String id;
+
+    private final int maxPlayers;
 
     private boolean queueing = true;
 
