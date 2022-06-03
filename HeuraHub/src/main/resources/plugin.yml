@@ -1,0 +1,4 @@
+name: HeuraHub
+version: '${project.version}'
+main: me.dan.heurahub.HeuraHub
+api-version: 1.18

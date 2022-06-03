@@ -1,0 +1,4 @@
+name: HeuraProxy
+version: '${project.version}'
+main: com.dan.heuraproxy.HeuraProxy
+api-version: 1.18

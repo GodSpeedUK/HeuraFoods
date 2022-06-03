@@ -1,0 +1,4 @@
+name: HeuraMinigame
+version: '${project.version}'
+main: me.dan.heuraminigame.HeuraMinigame
+api-version: 1.18
